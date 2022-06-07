@@ -1,0 +1,28 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 6 jun. 2022, 21:49:22
+    Author     : Asus
+*/
+*{
+    margin:0;
+    padding:0;
+}
+
+.container{
+    height:100vh;
+    width:100%;
+    background-image: url(../images/x.jpg);
+    background-position:center;
+    background-size: cover;
+}
+
+.navbar{
+    height:15vh;
+    width:90%;
+    margin:auto;
+    display:flex;
+    align-items: center;
+}
